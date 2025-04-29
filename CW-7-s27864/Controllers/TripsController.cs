@@ -10,7 +10,7 @@ namespace CW_7_s27864.Controllers;
 public class TripsController : ControllerBase
 {
     public static string conString =
-        "Data Source=DB-MSSQL16.pjwstk.edu.pl,1433;Initial Catalog=2019SBD;Persist Security Info=True;User ID=s27864@pjwstk.edu.pl;Password=Pisak1317;Integrated Security=True;TrustServerCertificate=True;Encrypt=True;";
+        "Data Source=DB-MSSQL16.pjwstk.edu.pl,1433;Initial Catalog=2019SBD;Persist Security Info=True;User ID=xxxxxxxxx;Password=xxxxxxx;Integrated Security=True;TrustServerCertificate=True;Encrypt=True;";
 
    
     
