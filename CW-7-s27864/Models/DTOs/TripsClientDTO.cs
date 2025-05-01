@@ -1,6 +1,6 @@
 namespace CW_7_s27864.DTOs;
 
-public class TripsClient
+public class TripsClientDTO
 {
     public int IdTrip { get; set; }
     public string Name { get; set; }

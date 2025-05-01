@@ -8,6 +8,6 @@ public class Trip
     public DateTime StartDate { get; set; }
     public DateTime EndDate { get; set; }
     public int MaxPeople { get; set; }
-    public string Country { get; set; }
+
     
 }
